@@ -1,0 +1,6 @@
+_extras
+.*
+*.mo
+dbraw_mysql.*
+make*.py*
+nbproject
